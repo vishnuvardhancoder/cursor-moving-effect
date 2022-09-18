@@ -30,7 +30,6 @@ h2::before{
     border-right: 2px solid #01fe87;
     overflow: hidden;
     animation: animate 6s linear infinite;
-    
 }
 @keyframes animate
 {
