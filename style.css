@@ -17,7 +17,6 @@ h2{
     color: #0e3742;
     -webkit-text-stroke: 0.3vw #383d52;
     text-transform: uppercase;
-    
 }
 h2::before{
     content: attr(data-text);
