@@ -1,2 +1,2 @@
-# CURSOR-MOVING-Effect
+# CURSOR-MOVING-EFFect
 Css Effect.
